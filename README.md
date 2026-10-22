@@ -24,7 +24,7 @@ Java application that loads graphs from CSV files and colors them with three alg
 ## Build and Run
 
 ```bash
-git clone https://github.com/Chocopter/IUT-Graph-Coloring.git
+git clone https://github.com/Adrian-Styzinski/IUT-Graph-Coloring.git
 cd IUT-Graph-Coloring
 ant jar
 java -jar dist/SAE2-3.jar
